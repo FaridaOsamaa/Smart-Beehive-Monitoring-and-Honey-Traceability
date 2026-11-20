@@ -1,6 +1,6 @@
-# 🐝 Smart Beehive Monitoring and Honey Traceability
+#Smart Beehive Monitoring and Honey Traceability
 
-## 📌 Project Overview
+##Project Overview
 
 The **Smart Beehive Monitoring and Honey Traceability System** is a proposed software solution designed for the Fayoum Beekeepers Cooperative.
 
@@ -8,7 +8,7 @@ The project aims to help beekeepers monitor their beehives, detect potential pro
 
 It also provides honey traceability, allowing buyers to access information about the honey's origin and laboratory test results using QR codes.
 
-## 🎯 Project Objectives
+## Project Objectives
 
 - Reduce colony losses by detecting problems early.
 - Help beekeepers monitor hive conditions remotely.
@@ -17,7 +17,7 @@ It also provides honey traceability, allowing buyers to access information about
 - Ensure honey quality through laboratory testing.
 - Provide transparency and traceability for honey buyers.
 
-## ⚙️ Main Features
+## Main Features
 
 ### 1. Smart Hive Monitoring
 Smart sensors collect data from beehives every 30 minutes, including:
@@ -67,7 +67,7 @@ Approved honey batches receive a QR code that allows buyers to view:
 - Laboratory test results.
 - Quality information.
 
-## 👥 Main Stakeholders
+## Main Stakeholders
 
 | Stakeholder | Responsibility |
 |---|---|
@@ -79,7 +79,7 @@ Approved honey batches receive a QR code that allows buyers to view:
 | Veterinary Authority | Handles disease notifications and hive clearance. |
 | Export Buyers | Scan QR codes to verify honey information. |
 
-## 🌱 Expected Benefits
+## Expected Benefits
 
 - Fewer unexpected colony losses.
 - Better hive management.
@@ -88,7 +88,7 @@ Approved honey batches receive a QR code that allows buyers to view:
 - Better coordination between stakeholders.
 - Increased buyer confidence through honey traceability.
 
-## 🛠️ Project Information
+## Project Information
 
 **Project Name:** Smart Beehive Monitoring and Honey Traceability  
 **Project Number:** 37  
@@ -96,7 +96,7 @@ Approved honey batches receive a QR code that allows buyers to view:
 **Domain:** Agriculture / Smart Agriculture  
 **Course:** Software Engineering
 
-## 📚 Project Scope
+## Project Scope
 
 This project focuses on analyzing, designing, and planning a smart monitoring and honey traceability system. It covers the system requirements, stakeholders, user stories, events, and use cases as part of the Software Engineering project.
 
